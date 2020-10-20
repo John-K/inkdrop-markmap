@@ -1,14 +1,14 @@
 {
 	"name": "markmap",
 	"main": "./lib/index",
-	"version": "0.1.0",
+	"version": "0.0.0",
 	"description": "Draw markdown mindmaps with markmap",
 	"keywords": [
 		"markmap",
 		"markdown",
 		"mindmap"
 	],
-	"respository": "https://github.com/john-k/inkdrop-markmap",
+	"repository": "https://github.com/John-K/inkdrop-markmap",
 	"license": "MIT",
 	"engines": {
 		"inkdrop": "^5.x"
