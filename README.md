@@ -1,4 +1,5 @@
 # Markmap-lib renderer for Inkdrop
+![](https://inkdrop-plugin-badge.vercel.app/api/version/markmap) ![](https://inkdrop-plugin-badge.vercel.app/api/downloads/markmap)
 
 A plugin for [Inkdrop](https://www.inkdrop.info/) which adds a renderer for [markmap-lib](https://markmap.js.org/)
 
