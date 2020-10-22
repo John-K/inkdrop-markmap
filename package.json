@@ -1,7 +1,7 @@
 {
 	"name": "markmap",
 	"main": "./lib/index",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "Draw markdown mindmaps with markmap",
 	"keywords": [
 		"markmap",
