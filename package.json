@@ -14,6 +14,7 @@
 		"inkdrop": "^5.x"
 	},
 	"dependencies": {
-		"markmap-lib": "0.9.1"
+		"markmap-lib": "0.9.1",
+    "prop-types": "15.8.1"
 	}
 }
