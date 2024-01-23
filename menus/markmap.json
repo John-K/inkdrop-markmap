@@ -1,0 +1,21 @@
+{
+    "menu": [
+      {
+        "label": "Plugins",
+        "submenu": [
+          {
+            "label": "",
+            "command": "markmap:render-doc"
+          }
+        ]
+      }
+    ],
+    "context-menu": {
+      ".CodeMirror": [
+        {
+          "label": "Render markmap...",
+          "command": "markmap:render-doc"
+        }
+      ]
+    }
+  }
